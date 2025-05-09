@@ -37,3 +37,4 @@ An interactive educational Unity game designed to help young children learn how 
   - Numbers
   - Basic shapes
   - Custom patterns
+## Download the .exe file from Releases
