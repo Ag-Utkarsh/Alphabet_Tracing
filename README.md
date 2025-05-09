@@ -38,3 +38,4 @@ An interactive educational Unity game designed to help young children learn how 
   - Basic shapes
   - Custom patterns
 ## Download the .exe file from Releases
+### P.S. Download the zip file of Assets, Packages and Project Settings, to twerk the project in Unity. Due to large size of project, only zip files could be uploaded
